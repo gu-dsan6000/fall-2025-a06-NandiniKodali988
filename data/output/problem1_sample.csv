@@ -1,0 +1,11 @@
+log_entry,log_level
+17/06/08 18:55:17 INFO output.FileOutputCommitter: Saved output of task 'attempt_201706081903_0863_m_000000_34523' to hdfs://10.10.34.11:9000/pjhe/test/80/_temporary/0/task_201706081903_0863_m_000000,INFO
+"17/06/08 14:58:45 INFO python.PythonRunner: Times: total = 37, boot = 17, init = 20, finish = 0",INFO
+"17/03/28 11:57:26 INFO storage.MemoryStore: Block broadcast_4_piece218 stored as bytes in memory (estimated size 4.0 MB, free 1402.7 MB)",INFO
+17/06/09 10:57:25 INFO executor.Executor: Running task 20.0 in stage 1011.0 (TID 40500),INFO
+17/06/09 18:00:29 INFO broadcast.TorrentBroadcast: Reading broadcast variable 3084 took 4 ms,INFO
+"17/03/28 15:39:50 INFO storage.MemoryStore: Block broadcast_5_piece156 stored as bytes in memory (estimated size 4.0 MB, free 360.0 MB)",INFO
+17/06/08 20:53:08 INFO storage.BlockManager: Found block rdd_19100_20 locally,INFO
+17/06/09 20:55:28 INFO executor.Executor: Finished task 32.0 in stage 2338.0 (TID 93835). 2241 bytes result sent to driver,INFO
+"17/06/09 19:48:36 INFO python.PythonRunner: Times: total = 37, boot = 16, init = 21, finish = 0",INFO
+17/06/08 22:14:58 INFO executor.Executor: Finished task 12.0 in stage 21418.0 (TID 856778). 2198 bytes result sent to driver,INFO
